@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    font: normal 1em Arial;
+}
+
+header{
+    text-align: center;
+}
+
+form{
+    width: 400px;
+    background-color: white;
+    padding: 8px;
+    border-radius: 6px;
+    margin: auto;
+}
+.botao:hover{
+    background-color: rgba(24, 245, 24, 0.37);
+    color: rgb(0, 0, 0);
+    border-radius: 2px;
+
+}
+div#res{
+    padding: 6px;
+    border-radius: 9px;
+    
+}
+#campos{
+    padding: 6px;
+    border-radius: 6px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
